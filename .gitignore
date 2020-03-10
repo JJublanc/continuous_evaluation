@@ -1,0 +1,14 @@
+*.ipynb_checkpoints/
+archives/
+*.gif
+*.png
+*.pdf
+
+.idea/
+env_dynamic/.idea/
+env_dynamic/experiments/
+env_dynamic/venv/
+
+
+env_dynamic/gym_dynamic_multi_armed_bandit/__pycache__/*
+env_dynamic/gym_dynamic_multi_armed_bandit/envs/__pycache__/*
