@@ -28,7 +28,7 @@ agent_params.exploration.epsilon_schedule = LinearSchedule(1, 0, 500)
 # Environment #
 ###############
 
-level = 'gym_dynamic_multi_armed_bandit.envs:BasicEnv'
+level = 'gym_dynamic_multi_armed_bandit.envs:BasicEnv2'
 env_params = GymVectorEnvironment(level)
 
 ########################
@@ -44,7 +44,7 @@ graph_manager = BasicRLGraphManager(agent_params=agent_params,
 # add task parameters #
 #######################
 
-log_path = './experiments/log'  # training logs are saved
+log_path = './experiments_v2/log'  # training logs are saved
 checkpoint_sec = 60  # checkpoints are used to restore the model
 if not os.path.exists(log_path):
     os.makedirs(log_path)

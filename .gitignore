@@ -12,3 +12,5 @@ env_dynamic/venv/
 
 env_dynamic/gym_dynamic_multi_armed_bandit/__pycache__/*
 env_dynamic/gym_dynamic_multi_armed_bandit/envs/__pycache__/*
+
+env_dynamic/gym_dynamic_multi_armed_bandit.egg-info/
