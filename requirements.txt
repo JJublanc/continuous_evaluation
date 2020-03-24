@@ -287,7 +287,7 @@ twine==1.12.1
 ujson==1.35
 unicodecsv==0.14.1
 Unidecode==1.1.1
-urllib3==1.23
+urllib3==1.24.2
 uvloop==0.11.2
 vcrpy==4.0.2
 virtualenv==16.4.3
