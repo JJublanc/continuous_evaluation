@@ -1,3 +1,5 @@
+dash
+plotly==4.5.4
 absl-py==0.7.0
 adal==1.2.1
 aiofiles==0.4.0

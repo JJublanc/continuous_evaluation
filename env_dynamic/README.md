@@ -1,4 +1,4 @@
-# To install the environements Gym proceed as follow
+# To install the environments Gym proceed as follow
 
 In a terminal go to the root of the project and launch the following command
 
