@@ -171,7 +171,7 @@ oauthlib==3.0.1
 odo==0.5.1
 olefile==0.46
 openai==0.1
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 openpyxl==2.5.12
 opt-einsum==3.1.0
 packaging==18.0
